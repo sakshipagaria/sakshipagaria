@@ -31,9 +31,7 @@ This is Sakshi Pagariya , a second year computer engineering student with profic
   
 
 - ❓ Ask me about anything related to art & technology  
-  
-
-- ⚡ Fun fact: i keep night shift switched on all the time  
+    
 
 
 </td><td valign="top" width="50%">
