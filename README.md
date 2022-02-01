@@ -24,15 +24,13 @@ This is Sakshi Pagariya , a second year computer engineering student with profic
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on myself ,my skills!
+- 🔭 I’m currently working on my technical skills!
   
 
-- 🌱 I’m currently learning javascript  & python
+- 🌱 I’m currently learning javascript & python
   
 
-- ❓ Ask me about anything related to art & technology  
-    
-
+- ⚡ Fun fact: I paint at times!
 
 </td><td valign="top" width="50%">
 
