@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sakshi Pagariya!  
+## Hey 👋, I'm Sakshi Pagariya!   
   
 
 <a href="https://github.com/sakshipagaria" target="_blank">
