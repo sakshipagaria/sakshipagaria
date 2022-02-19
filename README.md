@@ -20,6 +20,10 @@ And Im also learning GERMAN!
   
 
 <br/>  
+<div align="center">
+<img width="70%" height = "350px" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e477ifeuws9htcqpaxwsr0s6w07fjqf9p6kjlooug4q&rid=giphy.gif&ct=g" alt="cover" />
+</div>
+
 
 
 ## Rapidfire  
