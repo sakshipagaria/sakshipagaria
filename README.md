@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!  
-Hallo! This is Sakshi Pagariya , a second year computer engineering student with proficiency in C,C++,Java, Html.
+Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency in Html,Css and Js along with C++ and Python
 And Im also learning GERMAN!
   
 
