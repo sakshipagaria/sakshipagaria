@@ -1,4 +1,4 @@
-## Hey, I'm Sakshi Pagariya!🙋🏻 
+## Hey, I'm Sakshi Pagariya!🙋🏻‍♀️ 
   
 
 <a href="https://github.com/sakshipagaria" target="_blank">
@@ -14,7 +14,7 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here!🤗  
 Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency in Html,Css and Js along with C++ and Python
 
   
@@ -26,7 +26,7 @@ Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency
 
 
 
-## Rapidfire  
+## Rapidfire🚀  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on my technical skills!
@@ -49,7 +49,7 @@ Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency
 <br/>  
 
 
-## Languages and Tools  
+## Languages and Tools⚒️  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" />  
@@ -64,7 +64,7 @@ Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency
 <br/>  
 
 
-## Github Stats  
+## Github Stats📊  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sakshipagaria&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
