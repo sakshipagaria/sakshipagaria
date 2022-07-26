@@ -1,4 +1,4 @@
-## Hey 👋, I'm Sakshi Pagariya!   
+## Hey, I'm Sakshi Pagariya!🙋🏻 
   
 
 <a href="https://github.com/sakshipagaria" target="_blank">
@@ -35,7 +35,7 @@ Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency
 - 🌱 I’m currently learning javascript & python
   
 
-- ⚡ Fun fact: I paint at times!
+- ⚡ Fun fact: I paint at times!👩🏻‍🎨
 
 </td><td valign="top" width="50%">
 
