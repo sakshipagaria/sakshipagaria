@@ -37,6 +37,9 @@ Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency
 
 - ⚡ Fun fact: I paint at times!👩🏻‍🎨
 
+
+- 🐾 Im learning GERMAN lately and loving it 👐
+
 </td><td valign="top" width="50%">
 
 <div align="center">
