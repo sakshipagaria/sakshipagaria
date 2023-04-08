@@ -15,7 +15,7 @@
 
 
 ### Glad to see you here!🤗  
-Hallo! This is Sakshi Pagariya , a computer engineering student with proficiency in Html,Css and Js along with C++ and Python
+I'm Sakshi, a chill 3rd year CS student who knows her way around Web Development ,Python and expanding her knowledge about ReactJs. Also an artist on weekends and  polyglot who can speak German, wunderbar! 
 
   
 
