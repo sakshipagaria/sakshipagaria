@@ -32,13 +32,13 @@ I'm Sakshi, a chill 3rd year CS student who knows her way around Web Development
 - 🔭 I’m currently working on my technical skills!
   
 
-- 🌱 I’m currently learning javascript & python
+- 🌱 I’m currently learning React
   
 
 - ⚡ Fun fact: I paint at times!👩🏻‍🎨
 
 
-- 🐾 Im learning GERMAN lately and loving it 👐
+- 🐾 Im learning GERMAN lately and loving it + 3D modelling👐
 
 </td><td valign="top" width="50%">
 
